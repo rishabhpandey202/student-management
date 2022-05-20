@@ -5,3 +5,4 @@ all the data from the user is getting added to local storage and getting mapped 
 remove the button to remove student data from the database 
 also have given some basic functionality like storing removed data in the trash in local storage  
 counting the no of students in different courses like web16 and web17.
+netlify link - https://glistening-wisp-691924.netlify.app/
