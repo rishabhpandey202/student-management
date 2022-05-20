@@ -1,5 +1,5 @@
-//  import { navbar } from "./navbar.js";
-//  document.getElementById("navbar").innerHTML=navbar();
+ import { navbar } from "./navbar.js";
+ document.getElementById("navbar").innerHTML=navbar();
 var array = JSON.parse(localStorage.getItem("database")) || []
 function Description(event) {
     event.preventDefault();
